@@ -1,6 +1,10 @@
 <details>
   <summary>Happy holy Eid ul Adha</summary>
-    ![Card](eidII.jpg)
+  
+  ```
+  Card
+  ```
+  ![Card](eidII.jpg)
 
   ```
   Welcome to the introducing landscape of Rashadul Islam ross!
