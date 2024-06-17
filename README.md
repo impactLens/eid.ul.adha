@@ -2,12 +2,12 @@
   <summary>Happy holy Eid ul Adha</summary>
   
   ```
-  Card
+  Sneak View
   ```
-  ![Card](eidII.jpg)
+  ![Card](eidII.jpg){ width=31% }
 
   ```
-  Welcome to the introducing landscape of Rashadul Islam ross!
+  Hello dear there! Me Rashadul Islam ross!
   ```
 
 <details>
@@ -39,7 +39,7 @@
   ```
   Image of mine
   ```
-   ![rashadul](ross.jpg)
+   ![rashadul](ross.jpg){ width=23% }
 
 </details>
 
